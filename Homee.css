@@ -1,0 +1,459 @@
+body{
+	background-color:#000;
+		background-image:url(PFWImg/Pjokkk.png);
+-webkit-background-size:cover;
+-o-background-size:cover;
+-moz-background-size:cover;
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center;
+}
+#PAkl{
+	width:100%;
+	height:100px;
+font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+color:#2A2626;
+}
+a{
+	text-decoration:none;
+
+}
+#Eeeew{
+	border:1px solid #ccc;
+	height:500px;
+	width:100%;
+	background-color:#fff;
+	z-index:-1;
+	position:fixed;
+	margin-left:-7px;
+	margin-top:-30px;
+}
+.QQQS{
+	font-size:25px;
+	color:#fff;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	float:right;
+}
+.soo{
+margin-left:40px;
+color:#fff;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+font-size:20px;
+}
+#ANMKDJ{
+	float:left;
+	height:500px;
+	width:35.9%;
+	margin:0px auto;
+	margin-top:200px;
+}
+#mudre{
+	float:right;
+	height:100%;
+	width:64%;
+border-left:1px solid #ccc;	
+
+}
+.malinia{
+float:left;
+height:75%;
+width:47%;
+border:none;
+background-color:rgba(195,195,195,0.88);
+font-size:40px;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+
+}
+.klub{
+height:90%;
+width:100%;	
+}
+.rasip{
+height:200px;
+width:300px;
+margin-top:1%;
+border:none;
+background-color:rgba(195,195,195,0.88);
+font-size:40px;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+
+margin-left:10%;
+}
+#muv{
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	width:100%;
+	height:15%;
+	margin-top:50%;
+
+}
+#shhs{
+	border:1px solid #ccc;
+	font-size:15px;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+width:100%;
+height:9%;
+}
+.maliniaplp{
+	border:none;
+float:right;
+height:75%;
+width:47%;
+background-color:rgba(195,195,195,0.88);
+font-size:40px;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+box-shadow:rgba(33,31,31,0.82) 2px 4px 6px 6px;
+}
+#nah{
+	height:100px;
+	width:64%;	
+	border:none;
+	position:fixed;
+	z-index:1;
+	
+}
+#bith{
+		height:300px;
+	width:64%;
+	margin-top:100px;
+	
+	position:fixed;
+}
+.ordd{
+	height:40px;
+	width:100%;	
+	z-index:1;
+}
+.Pwi{
+	height:40px;
+	width:100%;
+	text-align:center;
+	border:1px solid #ccc;
+}
+.SKlq{
+	height:40px;
+	width:100%;
+	border:none;
+border-bottom:1px solid #ccc;
+background-color:#fff;
+}
+.SKjn{
+	border:none;
+	height:40px;
+	width:100%;
+border-bottom:1px solid #ccc;
+background-color:#fff;
+}
+#muff{
+	height:400px;
+		border:1px solid #ccc;
+	width:33%;
+position:fixed;
+	margin-left:2%;  margin-top:80px; overflow:auto;
+}
+.hig{
+	text-align:center;
+	border:1px solid #ccc;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-left:0.1%;
+	margin-top:10px;;
+}
+#felkr{
+	background-color:#fff;
+	height:200px;
+	width:35.9%;
+	position:fixed;
+		background-image:url(PFWImg/68376171.jpg);
+-webkit-background-size:cover;
+-moz-background-size:cover;
+background-size:cover;
+background-repeat:no-repeat;
+background-position:center;
+}
+#bigW{
+	background-color:#fff;
+	z-index:1;
+	height:auto;
+	width:300px;
+	
+	position:fixed;
+}
+.snwj{
+	margin-left:37px; text-align:center; margin-top:20px;
+}
+
+
+.fam{
+		float:left;
+	height:100%;
+	width:70%;
+	color:#0000;
+	font-size:20px; margin:100px auto; width:1em; height:1em; border-radius:50%; position:relative; text-indent:-9999em; -webkit-animation:load4 1.3s infinite linear;
+animation:load4 1.3s infinite linear; -webkit-transform:translateZ(0); -ms-transform:translateZ(0); transform:translateZ(0); 	
+}
+
+
+
+.asm{
+	width:70px;
+	height:70px;
+	border-radius:12px;
+}
+.weki{
+	width:100%;
+	height:250px;
+	
+}
+.emdo{
+	width:30%;
+	height:100%;
+	border-bottom:1px solid #fff;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align:center;
+	background-color:#000; opacity:0.6; color:#fff;
+	margin-left:30%;
+}
+.lib{
+	border-radius:4px;
+	width:100%;
+	height:40px;
+	border:none;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.nskk{
+	border:none;
+	background-color:#000;	
+	color:#fff; 
+}
+.nlk{
+	border-bottom:1px solid #ccc;
+	
+}
+#fut{
+	float:left;
+	height:100%;
+	width:70%;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+#pwr{
+	float:right;
+	height:100%;
+	width:29.5%;
+	border-right:1px solid #ccc;
+	border-left:1px solid #ccc;
+}
+#lov{
+	float:left;
+		height:100%;
+	width:70%;
+	border-left:1px solid #ccc;
+}
+.tomrrw{
+	display:none;
+}
+.guttr{
+height:50%;
+width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align:center;
+}
+.game{
+background-color:#000;
+color:#fff;	
+}
+.gill{
+border-radius:6px;
+border:none;
+text-align:center;
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.brien{
+border-radius:6px;
+border:none;
+text-align:center;
+margin-left:4%;
+width:100%;
+}
+.qwn{
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.salt{
+	border:none;
+	width:100%;
+	height:40px; 
+}
+.salty{
+	border-bottom:none;
+	width:100%;
+	height:40px; 
+	background-color:#fff;
+}
+.moth{
+	width:35.9%;
+	border:1px solid #ccc;
+	height:100px;
+	margin-top:0px;
+	position:fixed;
+}
+#thnk{
+		width:35.9%;
+	height:400px;
+	overflow:auto;
+	position:fixed;
+	margin-top:100px;
+}
+#gal{
+	position:fixed;
+	
+	width:35.9%;
+	height:100px;
+}
+
+.sist{
+	border-bottom:1px solid #ccc;
+}
+.wint{
+		width:100%;
+	height:100%;
+	text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.bro{
+width:100%;
+}
+.rdBy{width:100%; height:30px; border-radius:4px;  border:1px solid #ccc; float:left;}
+.cbhs{width:20%; height:31px; margin-left:-20%;  margin-top:1px; text-align:center; border-radius:4px; border:none; background-color:#ccc; float:right;}
+.romnc{
+	width:90%;
+	height:100%;
+	margin-left:5%;
+	border:1px solid #ccc;
+}
+#fallap{
+	border:1px solid #ccc;
+	width:100%;
+	height:400px; margin-top:-40px;
+}
+#binw{
+	border:1px solid #ccc;
+	width:100%;
+	height:400px;
+	overflow:auto;
+}
+.If{
+	width:100%;
+	height:30px;
+		text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.pose{
+	border:1px solid #ccc;
+	width:50%;
+	height:auto;
+	margin-top:10px;
+	float:right; text-align:center;
+}
+.cose{
+	border:1px solid #ccc;
+	width:50%;
+	height:auto;
+	margin-top:10px;
+	float:left; text-align:center;
+}
+.arr{
+	border:1px solid #ccc;
+	width:90%;
+	height:auto;
+	margin-top:10px;
+	 text-align:center;
+	 
+}
+.poak{
+	border:none;
+}
+
+.nkjd{
+	border:none; font-size:12px; float:right; width:60%;
+}
+.bkjb{
+	border:none; font-size:12px; float:left; width:60%;
+}
+.dimm{
+	width:90%; border:1px solid #ccc; margin-left:5%; height:50%; 		text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.frky{
+	border-bottom:1px solid #ccc; border-left:1px solid #ccc; border-right:1px solid #ccc;
+}
+#ofyu{
+	width:100%; height:300px; overflow:auto;
+}
+.celeb{
+	width:110px;
+	height:80px;  margin-left:10%;
+}
+.budy{
+	width:100%;
+	height:80px;   
+}
+.asaa{
+	height:110px; border-right:1px solid #ccc;
+}
+.shit{
+	width:165px; height:auto;
+}
+.andn{
+	width:100px; height:70px;
+}
+.apy{
+	width:157px; height:auto;
+}
+.london{
+	width:80%; height:40px; margin-left:10%; border:1px solid #ccc; margin-top:20px;
+			text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.dwn{ width:60%; height:60px; text-align:center; margin-left:0px; }
+.sterio{ width:100%; height:60px; border:none;}
+.berk{
+	background-color:#000;
+	color:#fff;
+}
+snwj
+#jqk{
+	text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	float:right; width:35%; height:90%;
+	border:1px solid #ccc; 
+}
+#aa{
+		text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	float:left; width:65%; height:90%;
+	border:1px solid #ccc; 
+}
+.vap{
+	width:100%; height:auto;
+}
+.mak{
+	width:100%; height:auto; margin-top:10px;
+}
+#bast{
+	overflow:auto;
+	width:100%; height:400px;
+}
+.djnj{
+	width:100%; height:87px; border-bottom:1px solid #ccc;
+}
+.wkw{
+	width:50%; height:30px; border:none;
+}
+.snkq{
+	border:1px solid #ccc; background-color:#fff; margin-left:2px; height:80px; width:60px;
+}
+.sand{
+	border-bottom:1px solid #ccc;
+	border-left:1px solid #ccc;
+}

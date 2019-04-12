@@ -1,0 +1,34 @@
+.saa{
+	height:30px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	border:none;
+	width:30%;
+	margin-left:2%;
+}
+#mak{
+	width:64%; position:fixed; z-index:1;
+	height:30px;
+}
+#wnwmn{
+	width:100%;
+	height:30px;
+	margin-top:35px;
+}
+#turd{
+		background-color:#cccc;
+	border:1px solid #ccc;	
+	margin-top:25px;
+	height:390px;
+	margin-left:4%;
+	width:94%;
+}
+.acas{	
+	width:78%;
+	height:30px;
+	 border-radius:2px; border:1px solid #ccc;
+}
+.ankj{
+		width:20%;
+	height:30px;
+	border:none; border-radius:2px; 
+}
