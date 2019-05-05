@@ -1,35 +1,33 @@
-document.body.addEventListener('onload',gtrr());
 
-
-
-function hara(){
-	var contid = sg.split(" ");
-	var anjq = amk.split(" ");
-	var plqo = akmj.split(" ");
-	var qplw = ekl.split(" ");
-var lok = contid.length;
-var naj = anjq.length;
-var amq = plqo.length;
-var qmm = qplw.length;
-for(var gat = 1;gat < lok;gat++){
-	var tsg = contid[gat];
-	checkId.push(tsg);
-}
-for(var gat = 1;gat < naj;gat++){
-	var tsg = anjq[gat];
-	loanId.push(tsg);
-}
-for(var gat = 1;gat < amq;gat++){
-	var ed = plqo[gat];
-	rcvchck.push(ed);
-}
-for(var gat = 1;gat < qmm;gat++){
-	var tsg = qplw[gat];
-	day.push(tsg);
-}
 	
-var chrtd = {
-	labels: day,
+/* $(document).ready(function(){
+	
+	var stack = sessionStorage.selff;
+	
+	$.ajax({
+		url:"http://localhost/LibManager/graph.php",
+		type: "GET",
+		success:function(){
+			
+			var dayarr = ["Monday","Tuesday","Wednesday"];
+			var checkarr = ["10","10","10"];
+			var loanarr = ["24","24","24"];
+			var returarr = ["27","27","27"];
+			
+			/* for(var i in kata){
+				
+				dayarr.push(kata[i].Day);
+				checkarr.push(kata[i]);
+				loanarr.push(kata[i]);
+				returarr.push(kata[i]);
+			}
+			
+			alert(kata[1].Day);
+			$("#ANMKDJ").html(kata); 
+			
+			var chrtd = {
+				
+	labels: dayarr,
 	datasets: [
 	{
 	label:"Students Visit Library",
@@ -39,7 +37,8 @@ var chrtd = {
 	borderColor:"rgba(59,89,152,1)",
 	pointHoverBackgroundColor:"rgba(59, 89, 152,1)",
 	pointHoverBorderColor: "rgba(59, 89, 152,1)",
-	data: checkId
+	
+	data: checkarr
 	},
 	{
 	label:"Students Book Loan",
@@ -49,7 +48,7 @@ var chrtd = {
 	borderColor:"rgba(59,89,152,1)",
 	pointHoverBackgroundColor:"rgba(59, 89, 152,1)",
 	pointHoverBorderColor: "rgba(59, 89, 152,1)",
-	data: loanId
+	data: loanarr
 	},
 	{
 	label:"Students Return Loan",
@@ -59,16 +58,24 @@ var chrtd = {
 	borderColor:"rgba(59,89,152,1)",
 	pointHoverBackgroundColor:"rgba(59, 89, 152,1)",
 	pointHoverBorderColor: "rgba(59, 89, 152,1)",
-	data: rcvchck
+	data: returarr
 	}
 	]
 };
-		var ctx = document.getElementById("mcnv").innerHTML;	
-		
-		var lgj = new Chart(ctx, {
-			type: 'line',
-			data: chrtd
-			
-		})
 	
-}
+		var ctx = document.getElementById('mcnv').getContext('2d');	
+		
+		window.myLine = new Chart(ctx).Line(chrtd,{
+			responsive:true
+		});
+			
+					/* var ctx = document.getElementById('canvas').getContext('2d');
+			window.myLine = new Chart(ctx, config); 
+			
+		},
+		error : function(kata){
+			
+		}
+    
+	});
+})*/
