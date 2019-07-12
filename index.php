@@ -38,6 +38,12 @@ $DSL = "ForgotPAss.php"; $GLWk = "Forgot Password"; $DdkjaL = "LogIn.php";
 <html>
 	<head>
     <link style="text/css" rel="stylesheet" href="wanna.css">
+    <link style="text/css" rel="stylesheet" href="Spin-1s-200px.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	 <link style="text/css" rel="stylesheet" href="bootstrap/bootstrap-4.0.0-alpha.6-dist/css/bootstrap.css">
+    <script src="jquery.min.js"></script>
+    <script src="Chart.min.js"></script>
+    <script src="utils.js"></script>
 		<title>EasyLibrary</title>
 	</head>
 	<body class="shakiti">

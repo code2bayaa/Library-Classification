@@ -12,17 +12,9 @@ require_once('index.php');
 	<title>LogIn</title>
     <body>
 	<div id="CNAKLL"></div>
-    <div id="DSJDK">
-    <table name="ADKAD" class="kajhkj" >
-	<tr><th><span class="Amk">LogIn Here</span></th></tr>
-    <tr><td><input type="email" id="DSKDKS" class="ADAa" onclick="ASLS(145)" placeholder=" example@gmail.com " required /></td></tr>
-   
-     <tr><td><input type="password" id="AZSjdsSa" class="ADAa" onclick="ASLS(875)" placeholder="Password" required /></td></tr>
-    
-	  <tr><td><input type="button" id="SDKjasA" class="SDKdakk" value="LogIn" onclick="SDKD()"  required readonly/></td></tr>
-    <tr><td class="Amk">To get assistance please click<a href="#" > Here</a></td></tr>
-    </table>
+    <div id="Stsay">
     </div>
+	<div id='gone'></div>
 	<div id="Sks"></div>
     </div>
 
